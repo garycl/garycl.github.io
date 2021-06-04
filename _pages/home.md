@@ -21,10 +21,10 @@ Education
 
 Skills
 ------
-* Statistical Software:
-  * STATA, R, Python (basic), Matlab (basic)
-* Other Software:
-  * LaTex, Microsoft Office, Git
+* Programming:
+  * Python, R, Stata, Matlab
+* Other Tools:
+  * Git, SQL, LaTex, Microsoft Office
 * Language
   * English (fluent), Chinese (native)
 
